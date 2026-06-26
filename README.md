@@ -1,4 +1,4 @@
-# **EmporiUm East Region Sales Analysis (Power BI Dashboard)**
+# **EmporiUm East Region Sales Analysis  (Power BI Dashboard)**
 
 
 
@@ -36,4 +36,6 @@ The analysis was completed using **Power BI** to create a report that highlights
 
 
 ### **Video Presentation:**
+
+[**Click Link Here**](https://yearuptemp-my.sharepoint.com/:f:/g/personal/achanthadara_my_yearupunited_org/IgAw48CYmbJ-TZtRrazTvXJjAbvYAACpTLw09shYT7P2jsM?e=tt6jei)
 
